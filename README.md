@@ -1,0 +1,1 @@
+Our goal is to aid in the allocation of financial and dietary resources to schools who need them the most. We will be using multiple accessible data points to predict the number of students that are eligible for free and reduced-price lunch.
